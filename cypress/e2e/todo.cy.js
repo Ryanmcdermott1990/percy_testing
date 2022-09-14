@@ -1,4 +1,4 @@
-describe('TodoMVC', function() {
+describe('Google Test', function() {
   beforeEach(function() {
     // Load our app before starting each test case
     cy.visit('https://www.google.com/')
